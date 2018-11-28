@@ -1,24 +1,8 @@
-# README
+# Railsblog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+An app with a name that makes little to no sense. 
 
-Things you may want to cover:
+Created as a method for learning Ruby on Rails. 
 
-* Ruby version
+s/o to [mackenziechild](https://github.com/mackenziechild) for his excellent [YouTube tutorial](https://www.youtube.com/playlist?list=PL23ZvcdS3XPKnwg3lMv-JGNCn08kB0wsA).
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
